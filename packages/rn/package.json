@@ -1,5 +1,5 @@
 {
-  "name": "@logto/rn",
+  "name": "@vdumanov/logto/rn",
   "publishConfig": {
     "access": "public"
   },
@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/logto-io/react-native.git",
+    "url": "https://github.com/vasiliydumanov/logto-rn.git",
     "directory": "packages/rn"
   },
   "scripts": {
